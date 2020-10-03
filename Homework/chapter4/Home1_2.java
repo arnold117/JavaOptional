@@ -1,3 +1,4 @@
+import java.util.ArrayList;
 import java.util.Random;
 
 /**
@@ -9,6 +10,7 @@ public class Home1_2 {
         int a[] = new int[100];
         int count = 0;
         Random rand = new Random();
+        ArrayList<Integer> list = new ArrayList<>();
 
         for (int i = 0; i < a.length; i++) {
             a[i] = rand.nextInt();
@@ -24,9 +26,20 @@ public class Home1_2 {
         for (int i : a) {
             if (i % 3 == 0 || i % 7 == 0) {
                 count++;
+                list.add(i);
             }
         }
 
-        System.out.println("There are " + count + " numbers can be divied by 3 or 7");
+        System.out.println("There are " + count + " numbers can be divied by 3 or by 7");
+        System.out.println("These numbers are:");
+        count = 0;
+        for (int i : list) {
+            if (count == 4) {
+                System.out.println();
+                count = 0;
+            }
+            System.out.print(i+"    ");
+            count++;
+        }
     }
 }
