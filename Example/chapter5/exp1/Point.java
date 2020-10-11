@@ -1,3 +1,11 @@
+/*
+ * Copyright (c) 2019 - 2020.
+ * Author: Arnold Chow
+ * Project name: EGS
+ * Filename: Point.java
+ * Date: 11/10/2020, 11:37
+ */
+
 package classeg.chapter5.exp1;
 
 public class Point {
