@@ -1,3 +1,5 @@
+package homework.Yuan.chapter4.AS1;
+
 import java.util.*;
 
 public class Yuan {

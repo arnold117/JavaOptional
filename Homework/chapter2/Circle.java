@@ -1,3 +1,13 @@
+/*
+ * Copyright (c) 2019 - 2020.
+ * Author: Arnold Chow
+ * Project name: Java_Optional
+ * Filename: Circle.java
+ * Date: 18/10/2020, 22:31
+ */
+
+package homework.chapter2;
+
 import java.lang.Math;
 import java.util.Scanner;
 

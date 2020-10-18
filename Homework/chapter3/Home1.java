@@ -1,3 +1,13 @@
+/*
+ * Copyright (c) 2019 - 2020.
+ * Author: Arnold Chow
+ * Project name: Java_Optional
+ * Filename: Home1.java
+ * Date: 18/10/2020, 22:31
+ */
+
+package homework.chapter3;
+
 /**
  * Home1
  * 

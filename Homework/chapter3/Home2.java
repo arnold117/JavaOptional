@@ -1,3 +1,13 @@
+/*
+ * Copyright (c) 2019 - 2020.
+ * Author: Arnold Chow
+ * Project name: Java_Optional
+ * Filename: Home2.java
+ * Date: 18/10/2020, 22:31
+ */
+
+package homework.chapter3;
+
 /**
  * Home2 百鸡百钱问题。公鸡每只3元，母鸡每只5元，小鸡三只一元，用100元钱买100只鸡，公鸡、母鸡、小鸡应各买多少？
  */

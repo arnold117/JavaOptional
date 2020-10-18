@@ -1,3 +1,5 @@
+package homework.Yuan.chapter4.AS3;
+
 import java.util.Scanner;
 
 public class Yuan {

@@ -1,3 +1,5 @@
+package homework.Yuan.chapter4.AS2;
+
 import java.util.Arrays;
 import java.util.Random;
 

@@ -1,3 +1,13 @@
+/*
+ * Copyright (c) 2019 - 2020.
+ * Author: Arnold Chow
+ * Project name: Java_Optional
+ * Filename: Home2_2.java
+ * Date: 18/10/2020, 22:32
+ */
+
+package homework.chapter4;
+
 import java.util.ArrayList;
 
 public class Home2_2 {

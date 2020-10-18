@@ -1,3 +1,13 @@
+/*
+ * Copyright (c) 2019 - 2020.
+ * Author: Arnold Chow
+ * Project name: Java_Optional
+ * Filename: Home1_3.java
+ * Date: 18/10/2020, 22:32
+ */
+
+package homework.chapter4;
+
 import java.util.Scanner;
 
 /**

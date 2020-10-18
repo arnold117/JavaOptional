@@ -1,3 +1,13 @@
+/*
+ * Copyright (c) 2019 - 2020.
+ * Author: Arnold Chow
+ * Project name: Java_Optional
+ * Filename: Home2.java
+ * Date: 18/10/2020, 22:32
+ */
+
+package homework.chapter4;
+
 /**
  * 编写一个判断方法用来判断一个整数是否为素数,方法的返回结果为布尔类型,
  * 

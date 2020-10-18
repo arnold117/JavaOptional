@@ -1,3 +1,13 @@
+/*
+ * Copyright (c) 2019 - 2020.
+ * Author: Arnold Chow
+ * Project name: Java_Optional
+ * Filename: Home3.java
+ * Date: 18/10/2020, 22:31
+ */
+
+package homework.chapter3;
+
 /**
  * Home3 鸡兔同笼,已知鸡兔共有 50 只,共有 140 只脚,编程求解鸡有几只?兔子几只?
  */

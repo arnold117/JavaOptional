@@ -1,3 +1,5 @@
+package homework.Yuan.chapter3.As2;
+
 public class Yuan {
     public static void main(String[] args) {
         int cock, hen, chink;
