@@ -53,18 +53,3 @@ class Prog1 {
     }
 }
 
-class Main {
- 
-	public static void main(String[] args) {
-		int count = 0;
-		for(int k=7; k>=0; --k){
-			for(int j=8; j>k; --j){
-				for(int i=9; i>j; --i){
-					count++;
-				}
-			}
-		}
-		System.out.println(count);
-	}
- 
-}
