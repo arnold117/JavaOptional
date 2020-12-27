@@ -2,7 +2,7 @@
  * Copyright (c) 2019 - 2020.
  * Author: Arnold Chow
  * Project name: EGS
- * Filename: Test.java
+ * Filename: ArrayTest.java
  * Date: 11/10/2020, 17:44
  */
 

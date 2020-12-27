@@ -1,0 +1,9 @@
+stu1, 99
+stu2, 88
+stu3, 77
+stu4, 66
+stu5, 55
+stu6, 66
+stu7, 77
+stu8, 88
+stu9, 99
